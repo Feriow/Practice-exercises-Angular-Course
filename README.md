@@ -1,6 +1,12 @@
 # MyFirstApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+In this project I've developed the practice exercises from [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)'s "Angular - The Complete Guide" course on Udemy. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+
+-------------------------------------
+
+## How to install
+
+Run `npm install` to install the project dependencies.
 
 ## Development server
 
